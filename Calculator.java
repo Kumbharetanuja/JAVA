@@ -14,7 +14,7 @@ public static void main(String[] args)
 
   switch(operator)
   {
-    case '+': System.out.println(" => " + (num1 + num2 ));
+    case '+': System.out.println(" Addition = " + (num1 + num2 ));
               break;
 
     case '-': System.out.println(" => " + (num1 - num2 ));
